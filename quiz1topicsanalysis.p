@@ -1,5 +1,5 @@
 topic 1 - kinematics and vectors 
-// relative velocity
+// relative velocity + drawing of graphs
 
 topic 2 - newton's laws
 // upthrust and fbd
