@@ -6,9 +6,9 @@ topic 2 - newton's laws
 
 topic 3 - static equilibrium
 // fbd (linked to tension/centripetal forces)
-
+// stress; strain; young modulus
 topic 4 - more type of forces
-// 
+// drag force ; fbd of upthrust
 
 topic 5 - impulse and momentum
 //  conservation of momentum
