@@ -15,7 +15,7 @@ topic 5 - impulse and momentum
 //  conservation of momentum (2qn tested)
 
 topic 6 - work energy power
-// work energy theorem; principle of conservation of energy (mgh=mv^2)
+// work energy theorem; principle of conservation of energy (2x mgh=mv^2)
 
 topic 7 - rotational dynamics
 // centripetal force (1 qn tested)
